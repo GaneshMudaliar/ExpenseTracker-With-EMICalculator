@@ -61,7 +61,7 @@ const IncomeExpenseChart = () => {
     <div className="bg-white shadow-md rounded-lg p-6 mt-6 w-full max-w-2xl mx-auto">
       <h2 className="text-xl font-bold text-indigo-700 mb-4 text-center">📊 Income vs Expense</h2>
       
-      {/* Chart wrapper to control height on different screen sizes */}
+      {/* Chart */}
       <div className="relative h-[300px] sm:h-[350px] md:h-[400px] lg:h-[450px]">
         <Pie data={data} options={options} />
       </div>

@@ -18,7 +18,7 @@ const Overview = () => {
         <IncomeExpenseChart />
       </div>
 
-      {/* Transactions & EMI Summary - Responsive Grid */}
+      {/* Transactions & EMI*/}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
         {/* Transactions Panel */}
         <div className="bg-white shadow-md rounded-lg p-5">
