@@ -23,3 +23,11 @@ A responsive **Expense Tracker** application built with **React** and **Tailwind
 - **Charts:** Chart.js or Recharts
 - **State Management:** useState, useContext or Redux
 - **Persistence:** localStorage / Firebase / Supabase
+
+# Demo Link
+
+[ExpenseTracker and Emi Calculator](https://expensetrackeremical.netlify.app/)
+
+
+
+
